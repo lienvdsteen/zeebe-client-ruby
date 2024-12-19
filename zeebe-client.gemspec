@@ -23,7 +23,7 @@ Gem::Specification.new do |s|
 
   s.add_development_dependency 'bundler'
   s.add_development_dependency 'bundler-audit', '~> 0.9.0'
-  s.add_development_dependency 'grpc-tools', '~> 1.32'
+  s.add_development_dependency 'grpc-tools', '~> 1.68.1'
   s.add_development_dependency 'rake'
   s.add_development_dependency 'rspec'
   s.add_development_dependency 'rubocop', '~> 1.28.2'

@@ -1,8 +1,5 @@
 # Zeebe Ruby Client
 
-> [!IMPORTANT]  
-> This Gem is not maintained anymore.
-
 ![Build Status](https://github.com/zeebe-io/zeebe-client-ruby/workflows/ci/badge.svg)
 
 [Zeebe](https://zeebe.io) client containing a simple wrapper for the GRPC protocol used by Zeebe.
